@@ -37,6 +37,7 @@ Global
 		{FA306F00-F6FE-485B-BDFD-6B05B89D4799}.Release|Any CPU.ActiveCfg = Release|x64
 		{FA306F00-F6FE-485B-BDFD-6B05B89D4799}.Release|x64.ActiveCfg = Release|x64
 		{FA306F00-F6FE-485B-BDFD-6B05B89D4799}.Release|x64.Build.0 = Release|x64
+		{FA306F00-F6FE-485B-BDFD-6B05B89D4799}.Release|x64.Deploy.0 = Release|x64
 		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}.Debug|x64.ActiveCfg = Debug|x64
 		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}.Debug|x64.Build.0 = Debug|x64
@@ -51,6 +52,7 @@ Global
 		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}.Release|Any CPU.ActiveCfg = Release|x64
 		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}.Release|x64.ActiveCfg = Release|x64
 		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}.Release|x64.Build.0 = Release|x64
+		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}.Release|x64.Deploy.0 = Release|x64
 		{99E17151-042B-499D-B752-5B185AB289FA}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{99E17151-042B-499D-B752-5B185AB289FA}.Debug|x64.ActiveCfg = Debug|x64
 		{99E17151-042B-499D-B752-5B185AB289FA}.Debug|x64.Build.0 = Debug|x64
@@ -65,6 +67,7 @@ Global
 		{99E17151-042B-499D-B752-5B185AB289FA}.Release|Any CPU.ActiveCfg = Release|x64
 		{99E17151-042B-499D-B752-5B185AB289FA}.Release|x64.ActiveCfg = Release|x64
 		{99E17151-042B-499D-B752-5B185AB289FA}.Release|x64.Build.0 = Release|x64
+		{99E17151-042B-499D-B752-5B185AB289FA}.Release|x64.Deploy.0 = Release|x64
 		{EEF3ADED-E6CF-468C-A545-8A1A0C9A25FB}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{EEF3ADED-E6CF-468C-A545-8A1A0C9A25FB}.Debug|x64.ActiveCfg = Debug|x64
 		{EEF3ADED-E6CF-468C-A545-8A1A0C9A25FB}.Debug|x64.Build.0 = Debug|x64
@@ -79,6 +82,7 @@ Global
 		{EEF3ADED-E6CF-468C-A545-8A1A0C9A25FB}.Release|Any CPU.ActiveCfg = Release|x64
 		{EEF3ADED-E6CF-468C-A545-8A1A0C9A25FB}.Release|x64.ActiveCfg = Release|x64
 		{EEF3ADED-E6CF-468C-A545-8A1A0C9A25FB}.Release|x64.Build.0 = Release|x64
+		{EEF3ADED-E6CF-468C-A545-8A1A0C9A25FB}.Release|x64.Deploy.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
