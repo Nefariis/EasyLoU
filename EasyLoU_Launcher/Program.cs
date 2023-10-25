@@ -18,7 +18,7 @@ namespace EasyLoU_Launcher
             return new string(stringChars);
         }
         
-        private static void GenerateProcess(string path, byte[] resource = null, string louPath=null)
+        private static void GenerateProcess(string path, byte[] resource = null, string louPath = null)
         {
             var process = new Process
             {
@@ -58,10 +58,9 @@ namespace EasyLoU_Launcher
                 GenerateProcess(easyLoUPath, Resources.EasyLoU);
                 GenerateProcess(rcEditPath, Resources.rcedit_x64);
                 GenerateProcess(rcEditPath, null, easyLoUPath);
-                previouslyInstalled = easyLoUPath;
             }
 
-            Process.Start(previouslyInstalled);
+            Process.Start(previouslyInstalled ?? easyLoUPath);
         }
     }
 }
